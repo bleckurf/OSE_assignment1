@@ -20,3 +20,7 @@ limitations under the License.
 ## Description
 
 First assignment in Open source energy system modeling.
+
+The repository consists of:
+    - quadratures.py contains two functions, 'midpoint(a, b, f)' and 'trapezoidal(a, b, f)', which approximate the integral of a function f in the interval [a,b].
+    - test_quadratures.py contain a test function for each function in quadratures.py.
