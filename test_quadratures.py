@@ -1,4 +1,4 @@
-from OSE_assignment1.quadratures import midpoint, trapezoidal
+from quadratures import midpoint, trapezoidal
 
 
 def test_midpoint():
