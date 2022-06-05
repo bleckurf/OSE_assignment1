@@ -6,4 +6,4 @@ def test_midpoint():
 
 
 def test_trapezoidal():
-    assert trapezoidal(0, 1, lambda x: x**2) == 0
+    assert trapezoidal(0, 1, lambda x: x**2) == 0.5
